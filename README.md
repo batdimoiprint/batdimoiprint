@@ -77,7 +77,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -87,26 +89,12 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhlb2Yzb25oNjF4ZHdrbHVuMGhwZ254aHFnNW1mdWR4d2t6OXVsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp"  />
-
-###
-
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/kenny2125/kenny2125/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/e76zj7eobw4n47fftze613lnc">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=e76zj7eobw4n47fftze613lnc&count=3&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kenny2125/count.svg?"  />
 </div>
 
 ###
