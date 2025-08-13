@@ -96,13 +96,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2025%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 302.1 kB Used in GitHub's Storage 
  > 
-> 🏆 474 Contributions in the Year 2025
+> 🏆 476 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -110,32 +110,9 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-🌆 Daytime                315 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-🌃 Evening                562 commits         ████████░░░░░░░░░░░░░░░░░   33.67 % 
-🌙 Night                  599 commits         █████████░░░░░░░░░░░░░░░░   35.89 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   264 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Tuesday                  167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Wednesday                315 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Thursday                 208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Friday                   259 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Saturday                 198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Sunday                   258 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Manila
-
 💬 Programming Languages: 
 Other                    12 mins             █████████████████████░░░░   84.62 % 
 Image (svg)              2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
@@ -146,9 +123,6 @@ Figma                    2 mins              ████░░░░░░░�
 
 🐱‍💻 Projects: 
 Unknown Project          14 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -163,12 +137,8 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/batdimoiprint/batdimoiprint/main/assets/bar_graph.png)
-
-
- Last Updated on 13/08/2025 15:18:57 UTC
+ Last Updated on 13/08/2025 15:25:10 UTC
 <!--END_SECTION:waka-->
 
 ###
