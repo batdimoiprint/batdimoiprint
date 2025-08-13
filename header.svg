@@ -1,0 +1,48 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Import custom font from Google Fonts -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&amp;display=swap');
+      
+      .header-title {
+        font-family: 'IBM Plex Mono', Monaco, Menlo, 'Ubuntu Mono', monospace;
+        font-weight: 400;
+      }
+      .header-subtitle {
+        font-family: 'IBM Plex Mono', Monaco, Menlo, 'Ubuntu Mono', monospace;
+        font-weight: 400;
+      }
+    </style>
+  </defs>
+  
+  <!-- Main title: Kenny Reyes -->
+  <text x="600" y="80" 
+        class="header-title"
+        font-size="36"
+        font-weight="400"
+        fill="#ffffff" 
+        text-anchor="middle" 
+        dominant-baseline="middle">
+    Kenny Reyes
+  </text>
+  
+  <!-- Subtitle: 3D Artist - Web Developer - Multimedia Editor -->
+  <text x="600" y="120" 
+        class="header-subtitle"
+        font-size="16" 
+        fill="#ffffff" 
+        text-anchor="middle" 
+        dominant-baseline="middle">
+    3D Artist - Web Developer - Multimedia Editor
+  </text>
+  
+  <!-- Website: kennyreyes.me -->
+  <text x="600" y="150" 
+        class="header-subtitle"
+        font-size="16" 
+        fill="#ffffff" 
+        text-anchor="middle" 
+        dominant-baseline="middle">
+    kennyreyes.me
+  </text>
+</svg>
