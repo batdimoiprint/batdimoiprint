@@ -10,6 +10,8 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -21,3 +23,25 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
+      - name: Remove specific lines from README (lines 10 and 43)
+        run: |
+          set -e
+          file=README.md
+          # Delete line 43 first, then line 10 to preserve original numbering
+          if [ -f "$file" ]; then
+            cp "$file" "$file.bak"
+            sed -i '43d' "$file" || true
+            sed -i '10d' "$file" || true
+            if ! diff -q "$file" "$file.bak" >/dev/null 2>&1; then
+              echo "Lines removed; committing changes.";
+              git config user.name "github-actions[bot]"
+              git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+              git add "$file"
+              git commit -m "chore: remove lines 10 and 43 from README"
+              git push
+            else
+              echo "No changes after attempting to remove lines 10 and 43.";
+            fi
+          else
+            echo "README.md not found" >&2
+          fi
