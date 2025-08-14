@@ -7,7 +7,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%202%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
@@ -40,4 +39,3 @@ Vue                      1 repo              █░░░░░░░░░░�
  Last Updated on 14/08/2025 03:18:35 UTC
 <!--END_SECTION:waka-->
 
-###
