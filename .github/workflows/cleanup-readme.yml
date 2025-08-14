@@ -22,7 +22,7 @@ jobs:
           # Delete line 43 first, then line 10 to preserve original numbering
           if [ -f "$file" ]; then
             cp "$file" "$file.bak"
-            sed -i '43d' "$file" || true
+            sed -i '40d' "$file" || true
             sed -i '10d' "$file" || true
             if ! diff -q "$file" "$file.bak" >/dev/null 2>&1; then
               echo "Lines removed; committing changes.";
