@@ -5,22 +5,23 @@
 <img src="assets/html5-original 1.svg"> <img src="assets/css3-original 1.svg"> <img src="assets/javascript-plain 1.svg"> <img src="assets/typescript-original 1.svg"> <img src="assets/react-original 1.svg"> <img src="assets/tailwindcss-original 1.svg"> <img src="assets/bootstrap-original 1.svg"> <img src="assets/shadcn.svg"> <img src="assets/nodejs-original-wordmark 1.svg"> <img src="assets/express-original 1.svg"> <img src="assets/php-original 1.svg"> <img src="assets/java-original 1.svg"> <img src="assets/dot-net-plain-wordmark 1.svg"> <img src="assets/figma-original 1.svg"> <img src="assets/polypane.svg"> <img src="assets/mysql-original 1.svg"> <img src="assets/postgresql-original 1.svg"> <img src="assets/docker-original 1.svg"> <img src="assets/heroku-original 1.svg"> <img src="assets/vercel-original 1.svg"> <img src="assets/git-original 1.svg"> <img src="assets/github-original 1.svg"> <img src="assets/vscode-original 1.svg"> <img src="assets/copilot.svg"> <img src="assets/kiro.svg">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2059%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 56 mins             █████████████░░░░░░░░░░░░   53.80 % 
-HTTP                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-YAML                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Image (svg)              11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Markdown                 1 hr 58 mins        ████████████░░░░░░░░░░░░░   49.33 % 
+YAML                     58 mins             ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+Image (svg)              35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+HTTP                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-batdimoiprint            1 hr 45 mins        █████████████████████████   100.00 % 
+batdimoiprint            3 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -36,5 +37,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
+ Last Updated on 15/08/2025 18:51:19 UTC
 <!--END_SECTION:waka-->
 
