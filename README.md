@@ -5,23 +5,26 @@
 <img src="assets/html5-original 1.svg"> <img src="assets/css3-original 1.svg"> <img src="assets/javascript-plain 1.svg"> <img src="assets/typescript-original 1.svg"> <img src="assets/react-original 1.svg"> <img src="assets/tailwindcss-original 1.svg"> <img src="assets/bootstrap-original 1.svg"> <img src="assets/shadcn.svg"> <img src="assets/nodejs-original-wordmark 1.svg"> <img src="assets/express-original 1.svg"> <img src="assets/php-original 1.svg"> <img src="assets/java-original 1.svg"> <img src="assets/dot-net-plain-wordmark 1.svg"> <img src="assets/figma-original 1.svg"> <img src="assets/polypane.svg"> <img src="assets/mysql-original 1.svg"> <img src="assets/postgresql-original 1.svg"> <img src="assets/docker-original 1.svg"> <img src="assets/heroku-original 1.svg"> <img src="assets/vercel-original 1.svg"> <img src="assets/git-original 1.svg"> <img src="assets/github-original 1.svg"> <img src="assets/vscode-original 1.svg"> <img src="assets/copilot.svg"> <img src="assets/kiro.svg">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2046%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 58 mins        ███████████░░░░░░░░░░░░░░   45.82 % 
-YAML                     58 mins             ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Image (svg)              35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-HTTP                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-C                        16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+C                        2 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.76 % 
+Markdown                 1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+JavaScript               47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Image (svg)              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-batdimoiprint            3 hrs 59 mins       ███████████████████████░░   92.89 % 
-ram-simulator-c          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+batdimoiprint            3 hrs 59 mins       █████████████░░░░░░░░░░░░   51.42 % 
+ram-simulator-c          2 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
+batdimoiprint-backend    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+lively                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -36,6 +39,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2025 18:49:03 UTC
+
+ Last Updated on 20/08/2025 18:50:22 UTC
 <!--END_SECTION:waka-->
 
