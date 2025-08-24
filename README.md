@@ -7,7 +7,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2020%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
@@ -37,7 +36,6 @@ TypeScript               5 repos             ████░░░░░░░�
 C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
-
 
 
 
