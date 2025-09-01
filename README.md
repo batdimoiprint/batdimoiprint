@@ -5,42 +5,42 @@
 <img src="assets/html5-original 1.svg"> <img src="assets/css3-original 1.svg"> <img src="assets/javascript-plain 1.svg"> <img src="assets/typescript-original 1.svg"> <img src="assets/react-original 1.svg"> <img src="assets/tailwindcss-original 1.svg"> <img src="assets/bootstrap-original 1.svg"> <img src="assets/shadcn.svg"> <img src="assets/nodejs-original-wordmark 1.svg"> <img src="assets/express-original 1.svg"> <img src="assets/php-original 1.svg"> <img src="assets/java-original 1.svg"> <img src="assets/dot-net-plain-wordmark 1.svg"> <img src="assets/figma-original 1.svg"> <img src="assets/polypane.svg"> <img src="assets/mysql-original 1.svg"> <img src="assets/postgresql-original 1.svg"> <img src="assets/docker-original 1.svg"> <img src="assets/heroku-original 1.svg"> <img src="assets/vercel-original 1.svg"> <img src="assets/git-original 1.svg"> <img src="assets/github-original 1.svg"> <img src="assets/vscode-original 1.svg"> <img src="assets/copilot.svg"> <img src="assets/kiro.svg">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2054%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   30.72 % 
-JavaScript               1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-HTTP                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Assembly                 2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.49 % 
+JavaScript               1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   31.29 % 
+JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+HTTP                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-e-commerce-sales-predicti1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.89 % 
-ram-simulator-c          1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   34.71 % 
-LoginNoSQL               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-batdimoiprint            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-grokTest                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+emu8086                  2 hrs 42 mins       ███████████░░░░░░░░░░░░░░   42.49 % 
+e-commerce-sales-predicti1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+mongoDBPRac              57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+LoginNoSQL               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+grokTest                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
 
 
- Last Updated on 31/08/2025 18:44:41 UTC
+ Last Updated on 01/09/2025 18:46:15 UTC
 <!--END_SECTION:waka-->
 
