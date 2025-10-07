@@ -5,26 +5,25 @@
 <img src="assets/html5-original 1.svg"> <img src="assets/css3-original 1.svg"> <img src="assets/javascript-plain 1.svg"> <img src="assets/typescript-original 1.svg"> <img src="assets/react-original 1.svg"> <img src="assets/tailwindcss-original 1.svg"> <img src="assets/bootstrap-original 1.svg"> <img src="assets/shadcn.svg"> <img src="assets/nodejs-original-wordmark 1.svg"> <img src="assets/express-original 1.svg"> <img src="assets/php-original 1.svg"> <img src="assets/java-original 1.svg"> <img src="assets/dot-net-plain-wordmark 1.svg"> <img src="assets/figma-original 1.svg"> <img src="assets/polypane.svg"> <img src="assets/mysql-original 1.svg"> <img src="assets/postgresql-original 1.svg"> <img src="assets/docker-original 1.svg"> <img src="assets/heroku-original 1.svg"> <img src="assets/vercel-original 1.svg"> <img src="assets/git-original 1.svg"> <img src="assets/github-original 1.svg"> <img src="assets/vscode-original 1.svg"> <img src="assets/copilot.svg"> <img src="assets/kiro.svg">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2040%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 hrs 17 mins      █████████████████░░░░░░░░   67.32 % 
-Bash                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-JSON                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Python                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+TypeScript               13 hrs 28 mins      ████████████████░░░░░░░░░   64.71 % 
+Bash                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Python                   1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+JSON                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontdesk-dentalclinic-fr19 hrs 23 mins      ████████████████████░░░░░   80.13 % 
-frontdesk-dentalclinic-ba3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-frontdesk-dentalclinic   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-learnTanstack            18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+frontdesk-dentalclinic-fr15 hrs 39 mins      ███████████████████░░░░░░   75.23 % 
+frontdesk-dentalclinic-ba4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+frontdesk-dentalclinic   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -40,6 +39,6 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2025 18:48:12 UTC
+ Last Updated on 07/10/2025 18:48:28 UTC
 <!--END_SECTION:waka-->
 
