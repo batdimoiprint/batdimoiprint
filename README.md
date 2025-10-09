@@ -5,7 +5,7 @@
 <img src="assets/html5-original 1.svg"> <img src="assets/css3-original 1.svg"> <img src="assets/javascript-plain 1.svg"> <img src="assets/typescript-original 1.svg"> <img src="assets/react-original 1.svg"> <img src="assets/tailwindcss-original 1.svg"> <img src="assets/bootstrap-original 1.svg"> <img src="assets/shadcn.svg"> <img src="assets/nodejs-original-wordmark 1.svg"> <img src="assets/express-original 1.svg"> <img src="assets/php-original 1.svg"> <img src="assets/java-original 1.svg"> <img src="assets/dot-net-plain-wordmark 1.svg"> <img src="assets/figma-original 1.svg"> <img src="assets/polypane.svg"> <img src="assets/mysql-original 1.svg"> <img src="assets/postgresql-original 1.svg"> <img src="assets/docker-original 1.svg"> <img src="assets/heroku-original 1.svg"> <img src="assets/vercel-original 1.svg"> <img src="assets/git-original 1.svg"> <img src="assets/github-original 1.svg"> <img src="assets/vscode-original 1.svg"> <img src="assets/copilot.svg"> <img src="assets/kiro.svg">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2018%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -29,16 +29,16 @@ frontdesk-dentalclinic   3 mins              ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 08/10/2025 18:49:24 UTC
+ Last Updated on 09/10/2025 18:47:52 UTC
 <!--END_SECTION:waka-->
 
