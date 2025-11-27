@@ -5,27 +5,27 @@
 <img src="assets/html5-original 1.svg"> <img src="assets/css3-original 1.svg"> <img src="assets/javascript-plain 1.svg"> <img src="assets/typescript-original 1.svg"> <img src="assets/react-original 1.svg"> <img src="assets/tailwindcss-original 1.svg"> <img src="assets/bootstrap-original 1.svg"> <img src="assets/shadcn.svg"> <img src="assets/nodejs-original-wordmark 1.svg"> <img src="assets/express-original 1.svg"> <img src="assets/php-original 1.svg"> <img src="assets/java-original 1.svg"> <img src="assets/dot-net-plain-wordmark 1.svg"> <img src="assets/figma-original 1.svg"> <img src="assets/polypane.svg"> <img src="assets/mysql-original 1.svg"> <img src="assets/postgresql-original 1.svg"> <img src="assets/docker-original 1.svg"> <img src="assets/heroku-original 1.svg"> <img src="assets/vercel-original 1.svg"> <img src="assets/git-original 1.svg"> <img src="assets/github-original 1.svg"> <img src="assets/vscode-original 1.svg"> <img src="assets/copilot.svg"> <img src="assets/kiro.svg">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2033%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               18 hrs 31 mins      █████████████████████░░░░   83.27 % 
-HTTP                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-CSS                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-C#                       33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+TypeScript               16 hrs              █████████████████████░░░░   82.98 % 
+HTTP                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+C#                       33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 14 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-medicare-supersystem-fron16 hrs 27 mins      ██████████████████░░░░░░░   73.98 % 
-Flowboard-Project-Managem3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Flowboard-Project-Managem1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-supabaseFeatureTesting   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-frontdesk-dentalclinic-fr18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+medicare-supersystem-fron13 hrs 48 mins      ██████████████████░░░░░░░   71.59 % 
+Flowboard-Project-Managem3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Flowboard-Project-Managem1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+supabaseFeatureTesting   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+frontdesk-dentalclinic-ba8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -41,6 +41,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2025 18:47:24 UTC
+ Last Updated on 27/11/2025 18:48:28 UTC
 <!--END_SECTION:waka-->
 
