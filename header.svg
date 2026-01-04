@@ -110,14 +110,9 @@
         Kenny Reyes
     </text>
 
-    <!-- Subtitle: 3D Artist - Web Developer - Multimedia Editor -->
+    <!-- Subtitle: Full Stack Developer - Aspiring DevOps Engineer -->
     <text x="600" y="130" class="header-subtitle" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">
-        3D Artist - Web Developer - Multimedia Editor
-    </text>
-
-    <!-- Website: kennyreyes.me -->
-    <text x="600" y="160" class="header-subtitle" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">
-        kennyreyes.me
+        Full Stack Developer - Aspiring DevOps Engineer
     </text>
 
     <!-- Animated Ocean Waves -->
