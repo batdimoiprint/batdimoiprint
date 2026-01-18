@@ -10,13 +10,36 @@
                 font-weight: 700;
                 font-size: clamp(70px, 8vw, 150px);
                 letter-spacing: .05em;
+                /* black outline */
+                stroke: #000;
+                stroke-width: 4px;
+                paint-order: stroke fill;
+                stroke-linejoin: round;
             }
 
             .header-subtitle {
                 font-family: 'IBM Plex Mono', Monaco, Menlo, 'Ubuntu Mono', monospace;
                 font-weight: 400;
                 font-size: clamp(30px, 3.2vw, 60px);
+                /* subtle black outline */
+                stroke: #000;
+                stroke-width: 2px;
+                paint-order: stroke fill;
+                stroke-linejoin: round;
             }
+
+            
+            .header-link {
+                font-family: 'IBM Plex Mono', Monaco, Menlo, 'Ubuntu Mono', monospace;
+                font-weight: 400;
+                font-size: clamp(20px, 2.5vw, 45px);
+                /* subtle black outline */
+                stroke: #000;
+                stroke-width: 2px;
+                paint-order: stroke fill;
+                stroke-linejoin: round;
+            }
+
 
             .waves {
                 transform: translateY(0);
@@ -113,6 +136,10 @@
     <!-- Subtitle: Full Stack Developer - Aspiring DevOps Engineer -->
     <text x="600" y="130" class="header-subtitle" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">
         Full Stack Developer - Aspiring DevOps Engineer
+    </text>
+
+    <text x="600" y="160" class="header-link" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">
+        https://kenny-reyes-portfolio.vercel.app
     </text>
 
     <!-- Animated Ocean Waves -->
