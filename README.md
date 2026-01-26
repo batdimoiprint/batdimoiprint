@@ -5,24 +5,20 @@
 <img src="assets/html5-original 1.svg"> <img src="assets/css3-original 1.svg"> <img src="assets/javascript-plain 1.svg"> <img src="assets/typescript-original 1.svg"> <img src="assets/react-original 1.svg"> <img src="assets/tailwindcss-original 1.svg"> <img src="assets/bootstrap-original 1.svg"> <img src="assets/shadcn.svg"> <img src="assets/nodejs-original-wordmark 1.svg"> <img src="assets/express-original 1.svg"> <img src="assets/php-original 1.svg"> <img src="assets/java-original 1.svg"> <img src="assets/dot-net-plain-wordmark 1.svg"> <img src="assets/figma-original 1.svg"> <img src="assets/polypane.svg"> <img src="assets/mysql-original 1.svg"> <img src="assets/postgresql-original 1.svg"> <img src="assets/docker-original 1.svg"> <img src="assets/heroku-original 1.svg"> <img src="assets/vercel-original 1.svg"> <img src="assets/git-original 1.svg"> <img src="assets/github-original 1.svg"> <img src="assets/vscode-original 1.svg"> <img src="assets/copilot.svg"> <img src="assets/kiro.svg">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2032%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               36 mins             ███████████████░░░░░░░░░░   60.51 % 
-TSConfig                 15 mins             ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-Image (svg)              6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+HTML                     15 mins             █████████████████████████   98.98 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-learn-next-js            53 mins             ██████████████████████░░░   89.53 % 
-batdimoiprint            6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+ffs                      15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -38,6 +34,6 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2026 18:52:16 UTC
+ Last Updated on 26/01/2026 18:59:45 UTC
 <!--END_SECTION:waka-->
 
