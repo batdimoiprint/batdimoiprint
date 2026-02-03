@@ -5,6 +5,27 @@
 <img src="assets/html5-original 1.svg"> <img src="assets/css3-original 1.svg"> <img src="assets/javascript-plain 1.svg"> <img src="assets/typescript-original 1.svg"> <img src="assets/react-original 1.svg"> <img src="assets/tailwindcss-original 1.svg"> <img src="assets/bootstrap-original 1.svg"> <img src="assets/shadcn.svg"> <img src="assets/nodejs-original-wordmark 1.svg"> <img src="assets/express-original 1.svg"> <img src="assets/php-original 1.svg"> <img src="assets/java-original 1.svg"> <img src="assets/dot-net-plain-wordmark 1.svg"> <img src="assets/figma-original 1.svg"> <img src="assets/polypane.svg"> <img src="assets/mysql-original 1.svg"> <img src="assets/postgresql-original 1.svg"> <img src="assets/docker-original 1.svg"> <img src="assets/heroku-original 1.svg"> <img src="assets/vercel-original 1.svg"> <img src="assets/git-original 1.svg"> <img src="assets/github-original 1.svg"> <img src="assets/vscode-original 1.svg"> <img src="assets/copilot.svg"> <img src="assets/kiro.svg">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2039%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               2 hrs 53 mins       █████████████░░░░░░░░░░░░   52.43 % 
+TypeScript               1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   33.72 % 
+HTTP                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 29 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+lively-notes-backend     3 hrs 34 mins       ████████████████░░░░░░░░░   64.91 % 
+lively-notes-frontend    1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   33.82 % 
+Lively-Notes             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -18,6 +39,6 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 18:59:51 UTC
+ Last Updated on 03/02/2026 19:25:56 UTC
 <!--END_SECTION:waka-->
 
