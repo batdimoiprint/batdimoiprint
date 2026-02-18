@@ -5,7 +5,7 @@
 <img src="assets/html5-original 1.svg"> <img src="assets/css3-original 1.svg"> <img src="assets/javascript-plain 1.svg"> <img src="assets/typescript-original 1.svg"> <img src="assets/react-original 1.svg"> <img src="assets/tailwindcss-original 1.svg"> <img src="assets/bootstrap-original 1.svg"> <img src="assets/shadcn.svg"> <img src="assets/nodejs-original-wordmark 1.svg"> <img src="assets/express-original 1.svg"> <img src="assets/php-original 1.svg"> <img src="assets/java-original 1.svg"> <img src="assets/dot-net-plain-wordmark 1.svg"> <img src="assets/figma-original 1.svg"> <img src="assets/polypane.svg"> <img src="assets/mysql-original 1.svg"> <img src="assets/postgresql-original 1.svg"> <img src="assets/docker-original 1.svg"> <img src="assets/heroku-original 1.svg"> <img src="assets/vercel-original 1.svg"> <img src="assets/git-original 1.svg"> <img src="assets/github-original 1.svg"> <img src="assets/vscode-original 1.svg"> <img src="assets/copilot.svg"> <img src="assets/kiro.svg">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2049%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,8 +30,8 @@ Lively-Notes             0 secs              ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
@@ -40,6 +40,6 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2026 19:27:27 UTC
+ Last Updated on 18/02/2026 19:27:54 UTC
 <!--END_SECTION:waka-->
 
