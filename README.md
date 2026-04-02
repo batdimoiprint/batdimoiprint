@@ -5,42 +5,42 @@
 <img src="assets/html5-original 1.svg"> <img src="assets/css3-original 1.svg"> <img src="assets/javascript-plain 1.svg"> <img src="assets/typescript-original 1.svg"> <img src="assets/react-original 1.svg"> <img src="assets/tailwindcss-original 1.svg"> <img src="assets/bootstrap-original 1.svg"> <img src="assets/shadcn.svg"> <img src="assets/nodejs-original-wordmark 1.svg"> <img src="assets/express-original 1.svg"> <img src="assets/php-original 1.svg"> <img src="assets/java-original 1.svg"> <img src="assets/dot-net-plain-wordmark 1.svg"> <img src="assets/figma-original 1.svg"> <img src="assets/polypane.svg"> <img src="assets/mysql-original 1.svg"> <img src="assets/postgresql-original 1.svg"> <img src="assets/docker-original 1.svg"> <img src="assets/heroku-original 1.svg"> <img src="assets/vercel-original 1.svg"> <img src="assets/git-original 1.svg"> <img src="assets/github-original 1.svg"> <img src="assets/vscode-original 1.svg"> <img src="assets/copilot.svg"> <img src="assets/kiro.svg">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.61 % 
-TypeScript               4 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.67 % 
-Bash                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+JavaScript               5 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.26 % 
+TypeScript               4 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   37.46 % 
+JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-schatzies-events-backend 4 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.24 % 
-lively-notes-backend     3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-lively-notes-frontend    2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Schatzies-Events         2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-lively-notes-mobile      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+schatzies-events-backend 4 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.43 % 
+lively-notes-backend     3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+lively-notes-frontend    3 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Schatzies-Events         2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Lively-Notes             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            ████████░░░░░░░░░░░░░░░░░   32.35 % 
-JavaScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               10 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 01/04/2026 19:36:54 UTC
+ Last Updated on 02/04/2026 19:28:28 UTC
 <!--END_SECTION:waka-->
 
