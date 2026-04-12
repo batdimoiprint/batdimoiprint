@@ -5,27 +5,27 @@
 <img src="assets/html5-original 1.svg"> <img src="assets/css3-original 1.svg"> <img src="assets/javascript-plain 1.svg"> <img src="assets/typescript-original 1.svg"> <img src="assets/react-original 1.svg"> <img src="assets/tailwindcss-original 1.svg"> <img src="assets/bootstrap-original 1.svg"> <img src="assets/shadcn.svg"> <img src="assets/nodejs-original-wordmark 1.svg"> <img src="assets/express-original 1.svg"> <img src="assets/php-original 1.svg"> <img src="assets/java-original 1.svg"> <img src="assets/dot-net-plain-wordmark 1.svg"> <img src="assets/figma-original 1.svg"> <img src="assets/polypane.svg"> <img src="assets/mysql-original 1.svg"> <img src="assets/postgresql-original 1.svg"> <img src="assets/docker-original 1.svg"> <img src="assets/heroku-original 1.svg"> <img src="assets/vercel-original 1.svg"> <img src="assets/git-original 1.svg"> <img src="assets/github-original 1.svg"> <img src="assets/vscode-original 1.svg"> <img src="assets/copilot.svg"> <img src="assets/kiro.svg">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2024%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-TypeScript               1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+JavaScript               1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   33.32 % 
+TypeScript               53 mins             ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Schatzies-Events         1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-lively-notes-backend     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-schatzies-events-backend 37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-lively-notes-frontend    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-codespaces-blank         27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+lively-notes-backend     40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+schatzies-events-backend 36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Schatzies-Events         34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+lively-notes-frontend    31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+codespaces-blank         27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -41,6 +41,6 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2026 19:10:48 UTC
+ Last Updated on 12/04/2026 19:13:01 UTC
 <!--END_SECTION:waka-->
 
