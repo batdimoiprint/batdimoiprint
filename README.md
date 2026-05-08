@@ -5,30 +5,30 @@
 <img src="assets/html5-original 1.svg"> <img src="assets/css3-original 1.svg"> <img src="assets/javascript-plain 1.svg"> <img src="assets/typescript-original 1.svg"> <img src="assets/react-original 1.svg"> <img src="assets/tailwindcss-original 1.svg"> <img src="assets/bootstrap-original 1.svg"> <img src="assets/shadcn.svg"> <img src="assets/nodejs-original-wordmark 1.svg"> <img src="assets/express-original 1.svg"> <img src="assets/php-original 1.svg"> <img src="assets/java-original 1.svg"> <img src="assets/dot-net-plain-wordmark 1.svg"> <img src="assets/figma-original 1.svg"> <img src="assets/polypane.svg"> <img src="assets/mysql-original 1.svg"> <img src="assets/postgresql-original 1.svg"> <img src="assets/docker-original 1.svg"> <img src="assets/heroku-original 1.svg"> <img src="assets/vercel-original 1.svg"> <img src="assets/git-original 1.svg"> <img src="assets/github-original 1.svg"> <img src="assets/vscode-original 1.svg"> <img src="assets/copilot.svg"> <img src="assets/kiro.svg">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2031%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-JavaScript               2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-JSON                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Java                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Bash                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+JavaScript               1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+TypeScript               1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+JSON                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Java                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Bash                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
 🔥 Editors: 
-Kiro                     5 hrs 35 mins       █████████████░░░░░░░░░░░░   52.72 % 
-VS Code                  2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-Cursor                   1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Antigravity              1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Kiro                     2 hrs 51 mins       ███████████░░░░░░░░░░░░░░   44.01 % 
+VS Code                  2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.70 % 
+Antigravity              1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Cursor                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🐱‍💻 Projects: 
-Schatzies-Events         3 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   35.95 % 
-schatzies-events-backend 3 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.33 % 
-kaagapay-backend         1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Lively-Notes             26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-lively-notes-frontend    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+schatzies-events-backend 2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.38 % 
+kaagapay-backend         1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+Schatzies-Events         1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Lively-Notes             26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+lively-notes-frontend    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -44,6 +44,6 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2026 19:58:43 UTC
+ Last Updated on 08/05/2026 19:54:05 UTC
 <!--END_SECTION:waka-->
 
