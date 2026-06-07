@@ -5,29 +5,27 @@
 <img src="assets/html5-original 1.svg"> <img src="assets/css3-original 1.svg"> <img src="assets/javascript-plain 1.svg"> <img src="assets/typescript-original 1.svg"> <img src="assets/react-original 1.svg"> <img src="assets/tailwindcss-original 1.svg"> <img src="assets/bootstrap-original 1.svg"> <img src="assets/shadcn.svg"> <img src="assets/nodejs-original-wordmark 1.svg"> <img src="assets/express-original 1.svg"> <img src="assets/php-original 1.svg"> <img src="assets/java-original 1.svg"> <img src="assets/dot-net-plain-wordmark 1.svg"> <img src="assets/figma-original 1.svg"> <img src="assets/polypane.svg"> <img src="assets/mysql-original 1.svg"> <img src="assets/postgresql-original 1.svg"> <img src="assets/docker-original 1.svg"> <img src="assets/heroku-original 1.svg"> <img src="assets/vercel-original 1.svg"> <img src="assets/git-original 1.svg"> <img src="assets/github-original 1.svg"> <img src="assets/vscode-original 1.svg"> <img src="assets/copilot.svg"> <img src="assets/kiro.svg">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2040%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 24 mins        ███████████░░░░░░░░░░░░░░   42.90 % 
-TypeScript               1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   37.28 % 
-Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Markdown                 2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.87 % 
+TypeScript               1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   30.71 % 
+JSON                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Bash                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 8 mins        ████████████████░░░░░░░░░   65.58 % 
-Neovim                   1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   34.40 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude Code              4 hrs 15 mins       ██████████████████░░░░░░░   70.35 % 
+Neovim                   1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Codex CLI                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 
 🐱‍💻 Projects: 
-my-shadcn-site           1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   39.53 % 
-prince-it-solutions      43 mins             ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-Lively-Notes             27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Unknown Project          27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-batdimoiprint            14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+prince-it-solutions      2 hrs 56 mins       ████████████░░░░░░░░░░░░░   48.76 % 
+my-shadcn-site           1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+batdimoiprint            47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Lively-Notes             27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Unknown Project          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -43,6 +41,6 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 19:52:48 UTC
+ Last Updated on 07/06/2026 19:53:55 UTC
 <!--END_SECTION:waka-->
 
