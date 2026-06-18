@@ -11,38 +11,38 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               17 hrs 49 mins      ██████████████████░░░░░░░   70.92 % 
-Markdown                 2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-CSS                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-JavaScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+TypeScript               10 hrs              ████████████████░░░░░░░░░   63.30 % 
+Markdown                 2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+YAML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+CSS                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 21 mins      ████████████████░░░░░░░░░   65.06 % 
-Codex CLI                5 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-Neovim                   3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Claude Code              11 hrs 6 mins       ██████████████████░░░░░░░   70.23 % 
+Codex CLI                2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Neovim                   1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
 
 🐱‍💻 Projects: 
-prince-it-solutions      19 hrs 9 mins       ███████████████████░░░░░░   76.20 % 
-Schatzies-Events         4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-lively-notes-frontend    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Unknown Project          22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-schatzies-events-backend 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+prince-it-solutions      11 hrs 44 mins      ███████████████████░░░░░░   74.30 % 
+Schatzies-Events         3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+schatzies-cloudformation 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+lively-notes-frontend    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+schatzies-events-backend 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               13 repos            ████████░░░░░░░░░░░░░░░░░   31.71 % 
-JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+TypeScript               13 repos            ████████░░░░░░░░░░░░░░░░░   30.95 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 17/06/2026 20:34:12 UTC
+ Last Updated on 18/06/2026 21:01:42 UTC
 <!--END_SECTION:waka-->
 
