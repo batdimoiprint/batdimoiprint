@@ -11,31 +11,28 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 12 mins       ████████████████████░░░░░   80.25 % 
-Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              2 hrs 45 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Schatzies-Events         2 hrs 45 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               13 repos            ████████░░░░░░░░░░░░░░░░░   30.95 % 
-JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 
 
 
 
- Last Updated on 20/06/2026 20:03:05 UTC
+ Last Updated on 21/06/2026 20:11:51 UTC
 <!--END_SECTION:waka-->
 
