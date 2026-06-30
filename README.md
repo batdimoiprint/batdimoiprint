@@ -11,28 +11,37 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     30 mins             ███████████████░░░░░░░░░░   60.41 % 
+HTML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Bash                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+TypeScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  26 mins             █████████████░░░░░░░░░░░░   52.89 % 
+Antigravity CLI          15 mins             ████████░░░░░░░░░░░░░░░░░   31.66 % 
+Claude Code              7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Flowboard-Project-Managem38 mins             ███████████████████░░░░░░   77.19 % 
+claude-code-transfer     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+qcu-msc-central-portal-fr3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+qcu-msc-central-portal-ba2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 
 
 
 
- Last Updated on 29/06/2026 20:23:26 UTC
+ Last Updated on 30/06/2026 20:29:07 UTC
 <!--END_SECTION:waka-->
 
