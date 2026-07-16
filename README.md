@@ -7,45 +7,45 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.86 % 
-Terraform                3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-Python                   2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-YAML                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Bash                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Markdown                 4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+Terraform                3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+Python                   2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+YAML                     2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Other                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 23 mins       █████████████░░░░░░░░░░░░   53.03 % 
-Antigravity CLI          6 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.91 % 
-Claude Code              1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Codex CLI                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+VS Code                  8 hrs 38 mins       ██████████████░░░░░░░░░░░   56.99 % 
+Antigravity CLI          5 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.00 % 
+Codex CLI                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Claude Code              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🐱‍💻 Projects: 
-msc-qcu-main-terraform   3 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-batdimoiprint            3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-QCU-MSC                  2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-agentcron                2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-58b56b41-b202-451e-80b6-555 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+msc-qcu-main-terraform   3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+QCU-MSC                  2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+agentcron                2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+batdimoiprint            1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+58b56b41-b202-451e-80b6-555 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 15/07/2026 19:44:58 UTC
+ Last Updated on 16/07/2026 19:40:46 UTC
 <!--END_SECTION:waka-->
 
