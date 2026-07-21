@@ -13,40 +13,40 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.90 % 
-TypeScript               2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.14 % 
-JSON                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Terraform                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Markdown                 7 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.74 % 
+TypeScript               5 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+JSON                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Terraform                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 55 mins       ███████████░░░░░░░░░░░░░░   42.89 % 
-Claude Code              2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-Antigravity CLI          2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-Antigravity IDE          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Exec Wakatime            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Claude Code              8 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.30 % 
+Antigravity CLI          4 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+VS Code                  4 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+Antigravity IDE          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-batdimoiprint            2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-kennybento               1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-kanban-board             1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-msc-qcu-main-terraform   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-GPRCI                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+batdimoiprint            4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+kennybento               3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+GPRCI                    2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+msc-qcu-main-terraform   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+kanban-board             1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               18 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 
 
 
 
- Last Updated on 20/07/2026 20:05:48 UTC
+ Last Updated on 21/07/2026 19:59:50 UTC
 <!--END_SECTION:waka-->
 
