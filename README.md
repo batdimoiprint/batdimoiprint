@@ -7,6 +7,33 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%2019%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 13 hrs 55 mins      ███████████░░░░░░░░░░░░░░   45.14 % 
+TypeScript               6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Terraform                3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Other                    2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+JavaScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+
+🔥 Editors: 
+Claude Code              15 hrs 20 mins      ████████████░░░░░░░░░░░░░   49.71 % 
+Antigravity CLI          12 hrs              ██████████░░░░░░░░░░░░░░░   38.93 % 
+VS Code                  3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Exec Wakatime            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+🐱‍💻 Projects: 
+msc-qcu-main-terraform   6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+qcu-msc-central-portal-ba4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+QCU-MSC                  4 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+batdimoiprint            4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+GPRCI                    1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -20,6 +47,6 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:54:50 UTC
+ Last Updated on 25/07/2026 19:42:21 UTC
 <!--END_SECTION:waka-->
 
