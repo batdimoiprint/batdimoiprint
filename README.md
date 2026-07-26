@@ -7,31 +7,31 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2053%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 hrs 55 mins      ███████████░░░░░░░░░░░░░░   45.14 % 
-TypeScript               6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Terraform                3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Other                    2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-JavaScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Markdown                 13 hrs 41 mins      ███████████░░░░░░░░░░░░░░   43.19 % 
+TypeScript               6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Terraform                4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Other                    2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+JavaScript               2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 20 mins      ████████████░░░░░░░░░░░░░   49.71 % 
-Antigravity CLI          12 hrs              ██████████░░░░░░░░░░░░░░░   38.93 % 
-VS Code                  3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Exec Wakatime            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Claude Code              17 hrs              █████████████░░░░░░░░░░░░   53.68 % 
+Antigravity CLI          11 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   35.79 % 
+VS Code                  3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-msc-qcu-main-terraform   6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-qcu-msc-central-portal-ba4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-QCU-MSC                  4 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-batdimoiprint            4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-GPRCI                    1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+msc-qcu-main-terraform   7 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+qcu-msc-central-portal-ba4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+QCU-MSC                  4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+batdimoiprint            3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+GPRCI                    2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -47,6 +47,6 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:42:21 UTC
+ Last Updated on 26/07/2026 19:43:57 UTC
 <!--END_SECTION:waka-->
 
