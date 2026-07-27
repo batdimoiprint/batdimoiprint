@@ -7,46 +7,74 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2032%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 hrs 41 mins      ███████████░░░░░░░░░░░░░░   43.19 % 
-TypeScript               6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Terraform                4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Other                    2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-JavaScript               2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Markdown                 16 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   40.19 % 
+TypeScript               6 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Terraform                5 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Other                    4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+JavaScript               2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 🔥 Editors: 
-Claude Code              17 hrs              █████████████░░░░░░░░░░░░   53.68 % 
-Antigravity CLI          11 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   35.79 % 
-VS Code                  3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Claude Code              22 hrs 49 mins      ██████████████░░░░░░░░░░░   55.96 % 
+Antigravity CLI          15 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   37.10 % 
+VS Code                  2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-msc-qcu-main-terraform   7 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-qcu-msc-central-portal-ba4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-QCU-MSC                  4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-batdimoiprint            3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-GPRCI                    2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+msc-qcu-main-terraform   9 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+batdimoiprint            6 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+qcu-msc-central-portal-ba6 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+QCU-MSC                  4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+GPRCI                    3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 40 hrs 37 mins (99.58%)
+
+✍️ 6,481 lines written by AI, 2 lines written by hand (99.97% AI-written)
+
+🔤 339,258,260 Input Tokens, 1,250,607 Output Tokens
+
+💵 $1223.44 Estimated AI Cost This Week
+
+🧠 127 AI Sessions, 727 AI Prompts
+
+Opus                     3,535 lines         ████████████░░░░░░░░░░░░░   49.71 % 
+Sonnet                   1,829 lines         ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+Gemini                   1,318 lines         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Antigravity-Cli          385 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Q                        30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.97% of written lines came from AI
+📄 Detailed Prompter — average 516 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               18 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+TypeScript               18 repos            █████████░░░░░░░░░░░░░░░░   34.62 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 26/07/2026 19:43:57 UTC
+ Last Updated on 27/07/2026 20:03:29 UTC
 <!--END_SECTION:waka-->
 
