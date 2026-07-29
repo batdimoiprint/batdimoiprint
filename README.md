@@ -7,54 +7,58 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-135%20hrs%2031%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 12 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   37.98 % 
-Terraform                4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-TypeScript               4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Other                    3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-JavaScript               2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Markdown                 8 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   41.30 % 
+Other                    3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Terraform                3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Text                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TypeScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 12 mins      ██████████████░░░░░░░░░░░   54.01 % 
-Antigravity CLI          12 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   39.58 % 
-VS Code                  2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Claude Code              10 hrs 49 mins      █████████████░░░░░░░░░░░░   51.66 % 
+Antigravity CLI          9 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.12 % 
+VS Code                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-msc-qcu-main-terraform   8 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-qcu-msc-central-portal-ba5 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-QCU-MSC                  4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-batdimoiprint            4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-GPRCI                    1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+msc-qcu-main-terraform   4 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+batdimoiprint            3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+QCU-MSC                  3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+qcu-msc-central-portal-ba1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+GPRCI                    1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 42 mins (99.52%)
+⏱ AI Coding Time: 20 hrs 48 mins (99.27%)
 
-✍️ 3,450 lines written by AI, 2 lines written by hand (99.94% AI-written)
+✍️ 2,262 lines written by AI, 2 lines written by hand (99.91% AI-written)
 
-🔤 272,288,055 Input Tokens, 857,489 Output Tokens
+🔤 159,873,398 Input Tokens, 488,108 Output Tokens
 
-💵 $950.70 Estimated AI Cost This Week
+💵 $587.94 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 542 AI Prompts
+🧠 59 AI Sessions, 398 AI Prompts
 
-Opus                     1,746 lines         ███████████░░░░░░░░░░░░░░   45.12 % 
-Sonnet                   1,210 lines         ████████░░░░░░░░░░░░░░░░░   31.27 % 
-Gemini                   575 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Antigravity-Cli          295 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Q                        30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Opus                     1,412 lines         ██████████████░░░░░░░░░░░   55.46 % 
+Sonnet                   627 lines           ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+Gemini                   375 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Antigravity-Cli          88 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Q                        30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📄 Detailed Prompter — average 536 characters per prompt
+🤖 AI-Driven — 99.91% of written lines came from AI
+📝 Concise Prompter — average 463 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -70,6 +74,6 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:00:09 UTC
+ Last Updated on 29/07/2026 19:52:05 UTC
 <!--END_SECTION:waka-->
 
