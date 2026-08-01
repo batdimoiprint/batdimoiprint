@@ -15,48 +15,47 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.41 % 
-Terraform                2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Other                    2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Text                     1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-TypeScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Markdown                 3 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.56 % 
+Terraform                1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Other                    1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Text                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 21 mins      ██████████████████░░░░░░░   71.49 % 
-Antigravity CLI          4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Claude Code              6 hrs 23 mins       ████████████████░░░░░░░░░   62.31 % 
+Antigravity CLI          3 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   37.03 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🐱‍💻 Projects: 
-batdimoiprint            3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-msc-qcu-main-terraform   3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-GPRCI                    2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-MSC-QCU                  1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-qcu-msc-central-portal-ba1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+batdimoiprint            3 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.89 % 
+msc-qcu-main-terraform   2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+qcu-msc-central-portal-ba1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+MSC-QCU                  53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+prince-it-solutions      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 53 mins (99.91%)
+⏱ AI Coding Time: 10 hrs 14 mins (99.86%)
 
-✍️ 2,599 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,435 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 147,673,299 Input Tokens, 509,728 Output Tokens
+🔤 58,507,513 Input Tokens, 258,350 Output Tokens
 
-💵 $553.09 Estimated AI Cost This Week
+💵 $265.35 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 272 AI Prompts
+🧠 34 AI Sessions, 203 AI Prompts
 
-Opus                     1,461 lines         █████████████░░░░░░░░░░░░   53.22 % 
-Sonnet                   1,247 lines         ███████████░░░░░░░░░░░░░░   45.43 % 
-Antigravity-Cli          20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Gemini                   17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Opus                     1,385 lines         ███████████████████████░░   93.77 % 
+Sonnet                   75 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Gemini                   17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 673 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 709 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -73,6 +72,6 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 20:02:18 UTC
+ Last Updated on 01/08/2026 19:42:50 UTC
 <!--END_SECTION:waka-->
 
