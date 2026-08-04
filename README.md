@@ -15,48 +15,51 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.56 % 
-Terraform                1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Other                    1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Text                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Markdown                 18 hrs              ████████░░░░░░░░░░░░░░░░░   32.86 % 
+TypeScript               13 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+Python                   4 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Bash                     3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+JSON                     3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 23 mins       ████████████████░░░░░░░░░   62.31 % 
-Antigravity CLI          3 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   37.03 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Claude Code              22 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   41.55 % 
+VS Code                  19 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   35.37 % 
+Antigravity CLI          12 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Opencode Cli             30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Grok Build               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-batdimoiprint            3 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.89 % 
-msc-qcu-main-terraform   2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-qcu-msc-central-portal-ba1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-MSC-QCU                  53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-prince-it-solutions      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+kennybento               11 hrs 59 mins      █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+batdimoiprint            10 hrs 22 mins      █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+app                      7 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+tmp                      5 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+MSC-QCU                  3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 14 mins (99.86%)
+⏱ AI Coding Time: 54 hrs 45 mins (99.96%)
 
-✍️ 1,435 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 16,353 lines written by AI, 29 lines written by hand (99.82% AI-written)
 
-🔤 58,219,661 Input Tokens, 257,142 Output Tokens
+🔤 306,336,229 Input Tokens, 1,402,668 Output Tokens
 
-💵 $265.35 Estimated AI Cost This Week
+💵 $1427.47 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 202 AI Prompts
+🧠 375 AI Sessions, 888 AI Prompts
 
-Opus                     1,385 lines         ███████████████████████░░   93.77 % 
-Sonnet                   75 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Gemini                   17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     6,256 lines         █████████░░░░░░░░░░░░░░░░   37.45 % 
+Sonnet                   4,112 lines         ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+K                        2,860 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Deepseek                 2,162 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Gemini                   497 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 712 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.82% of written lines came from AI
+📚 Verbose Prompter — average 1,897 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,6 +75,6 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:42:32 UTC
+ Last Updated on 04/08/2026 20:08:15 UTC
 <!--END_SECTION:waka-->
 
