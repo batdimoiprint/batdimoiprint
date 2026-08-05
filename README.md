@@ -3,76 +3,37 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/batdimoiprint">
-    <img src="https://img.shields.io/badge/Role-Cloud_Infrastructure_Head_%40_MSC_QCU-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Role" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/batdimoiprint">
-    <img src="https://img.shields.io/badge/Stack-TypeScript_%C2%B7_React_%C2%B7_AWS_%C2%B7_Azure-38BDF8?style=for-the-badge&logo=typescript&logoColor=white" alt="Stack" />
-  </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="45"> <img src="https://cdn.simpleicons.org/shadcnui/808080" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="45"> <img src="https://cdn.simpleicons.org/sentry" height="45"> <img src="https://cdn.simpleicons.org/grafana" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45"> <img src="https://cdn.simpleicons.org/claude" height="45"> <img src="https://cdn.simpleicons.org/githubcopilot/808080" height="45"> 
 </div>
 
 <br/>
 
-### 🛠 Tech Stack & Tools
-
 <div align="center">
-  <!-- Languages & Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/shadcnui/808080" height="40" alt="shadcn/ui" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-
-  <br/><br/>
-
-  <!-- Backend & Systems -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="Express" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".NET" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-
-  <br/><br/>
-
-  <!-- Cloud, DevOps & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" alt="Azure" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="40" alt="Terraform" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/sentry" height="40" alt="Sentry" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/grafana" height="40" alt="Grafana" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="Vercel" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" height="40" alt="Heroku" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/claude" height="40" alt="Claude" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/githubcopilot/808080" height="40" alt="GitHub Copilot" />
-</div>
-
-<br/>
-
-### 📜 Certifications & Credentials
-
-<div align="center">
-  <a href="https://www.coursera.org/account/accomplishments/specialization/19BS5LQAH3S6" target="_blank" title="Google AI Professional">
-    <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/google-ai-professional.webp" height="45" alt="Google AI Professional" />
-  </a>
-  &nbsp;<b>Google AI Professional</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/users/johnkennyreyes/credentials/2137385954e901b0" target="_blank" title="GitHub Foundations">
-    <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/github-foundations.svg" height="45" alt="GitHub Foundations" />
-  </a>
-  &nbsp;<b>GitHub Foundations</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/82f29036-484c-48ac-a357-c9663eb453f0/public_url" target="_blank" title="AWS Cloud Computing 101">
-    <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/aws-cloud-computing.png" height="45" alt="AWS Cloud 101" />
-  </a>
-  &nbsp;<b>AWS Cloud 101</b>
+  <table>
+    <tr>
+      <td align="center" valign="bottom">
+        <a href="https://www.coursera.org/account/accomplishments/specialization/19BS5LQAH3S6" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/google-ai-professional.webp" height="100" alt="Google AI Professional" />
+          <br/>
+          <sub><b>Google AI Professional</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="bottom">
+        <a href="https://learn.microsoft.com/en-us/users/johnkennyreyes/credentials/2137385954e901b0" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/github-foundations.svg" height="100" alt="GitHub Foundations" />
+          <br/>
+          <sub><b>GitHub Foundations</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="bottom">
+        <a href="https://www.credly.com/badges/82f29036-484c-48ac-a357-c9663eb453f0/public_url" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/aws-cloud-computing.png" height="100" alt="AWS Cloud 101" />
+          <br/>
+          <sub><b>AWS Cloud 101</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -120,4 +81,3 @@ C#                       2 repos             █░░░░░░░░░░�
 
  Last Updated on 05/08/2026 11:48:12 UTC
 <!--END_SECTION:waka-->
-
