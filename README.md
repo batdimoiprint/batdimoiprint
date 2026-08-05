@@ -10,15 +10,13 @@
 
 <div align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/19BS5LQAH3S6" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/google-ai-professional.webp" height="80" alt="Google AI Professional Badge" />
+    <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/google-ai-professional.webp" width="30%" alt="Google AI Professional Badge" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/users/johnkennyreyes/credentials/2137385954e901b0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/github-foundations.svg" height="80" alt="GitHub Foundations Badge" />
+    <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/github-foundations.svg" width="30%" alt="GitHub Foundations Badge" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/82f29036-484c-48ac-a357-c9663eb453f0/public_url" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/aws-cloud-computing.png" height="80" alt="AWS Cloud Computing 101 Badge" />
+    <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/aws-cloud-computing.png" width="30%" alt="AWS Cloud Computing 101 Badge" />
   </a>
 </div>
 
