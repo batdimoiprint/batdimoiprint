@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60" fill="none">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#30363D"/>
+      <stop offset="100%" stop-color="#21262D"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="58" height="58" rx="12" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1.5"/>
+  <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE0IDEzLjlDMTE0IDcuMyAxMDguNyAyIDEwMi4xIDJIMjUuOUMxOS4zIDIgMTQgNy4zIDE0IDEzLjl2MTAwLjNjMCA2LjYgNS4zIDExLjkgMTEuOSAxMS45aDc2LjNjNi42IDAgMTEuOS01LjMgMTEuOS0xMS45VjEzLjl6bS00IC4xdjk5LjNjMCA0LjctMy41IDguNy04LjIgOC43SDI2LjVjLTQuNyAwLTguNS00LTguNS04LjdWMTRjMC00LjcgMy45LTggOC41LThoNzUuMmM0LjcgMCA4LjQgMy42IDguNCA4LjNsLS4xLS4zem0tNzMgOTQuN2wxNC4xLTE0LjFMMzcgODAuNXptMTQtNjAuOVYxOC40bC0xMy45LjFzLjEgNDUuOS4yIDQ1LjdDODAuMSA0Ny41IDc3IDU5LjQgNzcgNTkuNHY0OS40bC0uMS4ySDkwVjU5LjVjMC0yNy4xLTM5LTExLjctMzktMTEuN3pNNzAgMzZoMTQuOGM4LTEwIDEwLjctMTcgMTAuNy0xN0g4MC4yUzc1LjMgMzAgNzAgMzZ6IiBmaWxsPSIjNjc2MkE2Ii8+PC9zdmc+" x="13" y="13" width="34" height="34" preserveAspectRatio="xMidYMid meet"/>
+</svg>

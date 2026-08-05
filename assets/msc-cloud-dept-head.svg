@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="42" viewBox="0 0 420 42" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0078D4"/>
+      <stop offset="50%" stop-color="#30363D"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="1" y="1" width="418" height="40" rx="8" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.5"/>
+
+  <!-- Left Block Background -->
+  <path d="M 1 8 C 1 4.13401 4.13401 1 8 1 L 46 1 L 46 41 L 8 41 C 4.13401 41 1 37.866 1 34 Z" fill="#1F242C"/>
+  <line x1="46" y1="1" x2="46" y2="41" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Microsoft Logo (4 Colored Squares) -->
+  <g transform="translate(14, 12)">
+    <rect x="0" y="0" width="8.5" height="8.5" fill="#F25022"/>
+    <rect x="9.5" y="0" width="8.5" height="8.5" fill="#7FBA00"/>
+    <rect x="0" y="9.5" width="8.5" height="8.5" fill="#00A4EF"/>
+    <rect x="9.5" y="9.5" width="8.5" height="8.5" fill="#FFB900"/>
+  </g>
+
+  <!-- Content Text -->
+  <text x="60" y="17" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1">MICROSOFT STUDENT COMMUNITY</text>
+  <text x="60" y="32" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Cloud Infrastructure Dept Head</text>
+</svg>
