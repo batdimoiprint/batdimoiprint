@@ -9,8 +9,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%2033%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -36,32 +34,6 @@ tmp                      5 hrs 52 mins       ███░░░░░░░░�
 MSC-QCU                  3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 54 hrs 45 mins (99.96%)
-
-✍️ 16,353 lines written by AI, 29 lines written by hand (99.82% AI-written)
-
-🔤 306,336,229 Input Tokens, 1,402,668 Output Tokens
-
-💵 $1427.47 Estimated AI Cost This Week
-
-🧠 375 AI Sessions, 888 AI Prompts
-
-Opus                     6,256 lines         █████████░░░░░░░░░░░░░░░░   37.45 % 
-Sonnet                   4,112 lines         ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-K                        2,860 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Deepseek                 2,162 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Gemini                   497 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📚 Verbose Prompter — average 1,897 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.17% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -75,6 +47,6 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 11:47:20 UTC
+ Last Updated on 05/08/2026 11:48:12 UTC
 <!--END_SECTION:waka-->
 
