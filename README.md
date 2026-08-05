@@ -6,6 +6,36 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="45"> <img src="https://cdn.simpleicons.org/shadcnui/808080" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45"> <img src="https://cdn.simpleicons.org/claude" height="45"> <img src="https://cdn.simpleicons.org/githubcopilot/808080" height="45"> 
 </div>
 
+<br/>
+
+<div align="center">
+
+[![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/users/johnkennyreyes/credentials/2137385954e901b0)
+[![Google AI Professional](https://img.shields.io/badge/Google-AI%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/19BS5LQAH3S6)
+[![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft_Azure-Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/track/3ab8cacf6c69ec9833892a038b1af3c01c91ed6e)
+[![AWS Educate Cloud 101](https://img.shields.io/badge/AWS_Educate-Cloud_101-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/82f29036-484c-48ac-a357-c9663eb453f0/public_url)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://learn.microsoft.com/en-us/users/johnkennyreyes/credentials/2137385954e901b0" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/github-foundations-cert.png" height="140" alt="GitHub Foundations" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/19BS5LQAH3S6" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/google-ai-professional.png" height="140" alt="Google AI Professional" />
+  </a>
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/3ab8cacf6c69ec9833892a038b1af3c01c91ed6e" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/microsoft-azure-fundamentals.png" height="140" alt="Microsoft Azure Fundamentals" />
+  </a>
+  <a href="https://www.credly.com/badges/82f29036-484c-48ac-a357-c9663eb453f0/public_url" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/batdimoiprint/batdimoiprint@main/assets/certifications/aws-cloud-computing.png" height="140" alt="AWS Cloud 101" />
+  </a>
+</div>
+
+<br/>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2011%20mins-blue?style=flat)
 
