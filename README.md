@@ -64,29 +64,31 @@
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2043%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 19 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   32.92 % 
-TypeScript               11 hrs 59 mins      █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Python                   6 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Lua                      3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-JSON                     3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Markdown                 19 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   35.71 % 
+TypeScript               8 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Python                   6 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Lua                      3 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Other                    2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🔥 Editors: 
-Antigravity CLI          23 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   38.94 % 
-Claude Code              20 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   34.71 % 
-VS Code                  15 hrs 11 mins      ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-Opencode Cli             30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Grok Build               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Antigravity CLI          23 hrs 37 mins      ███████████░░░░░░░░░░░░░░   42.21 % 
+Claude Code              19 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   34.82 % 
+VS Code                  12 hrs 40 mins      ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+Opencode Cli             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Grok Build               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-batdimoiprint            8 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-kennybento               8 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-app                      6 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-MSC-QCU                  6 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-tmp                      5 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+app                      6 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+MSC-QCU                  6 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+batdimoiprint            6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+tmp                      5 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+kennybento               4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,5 +104,5 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:23:20 UTC
+ Last Updated on 07/08/2026 19:28:42 UTC
 <!--END_SECTION:waka-->
