@@ -70,38 +70,38 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   35.17 % 
-TypeScript               3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Python                   3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Other                    2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-YAML                     2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Markdown                 9 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+TypeScript               4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Python                   3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Other                    2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Lua                      2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 
 🔥 Editors: 
-Antigravity CLI          17 hrs 53 mins      ███████████████░░░░░░░░░░   59.11 % 
-Claude Code              9 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-VS Code                  3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Antigravity CLI          18 hrs 30 mins      ███████████████░░░░░░░░░░   58.51 % 
+Claude Code              5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+VS Code                  4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Codex CLI                3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
 
 🐱‍💻 Projects: 
-MSC-QCU                  6 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-tmp                      3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-batdimoiprint            3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-hypr                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-qcu-msc-central-portal-ba1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+MSC-QCU                  5 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+hypr                     5 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+batdimoiprint            3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+lively-notes-frontend    2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+tmp                      2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.73 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+TypeScript               17 repos            ████████░░░░░░░░░░░░░░░░░   31.48 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 09/08/2026 19:10:47 UTC
+ Last Updated on 10/08/2026 19:29:46 UTC
 <!--END_SECTION:waka-->
