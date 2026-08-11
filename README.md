@@ -64,31 +64,7 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%2054%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 9 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-TypeScript               4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Python                   3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Other                    2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Lua                      2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-
-🔥 Editors: 
-Antigravity CLI          18 hrs 30 mins      ███████████████░░░░░░░░░░   58.51 % 
-Claude Code              5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-VS Code                  4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Codex CLI                3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-
-🐱‍💻 Projects: 
-MSC-QCU                  5 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-hypr                     5 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-batdimoiprint            3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-lively-notes-frontend    2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-tmp                      2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2034%20mins-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
@@ -103,5 +79,5 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 19:29:46 UTC
+ Last Updated on 11/08/2026 19:34:18 UTC
 <!--END_SECTION:waka-->
