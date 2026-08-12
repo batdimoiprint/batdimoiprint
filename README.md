@@ -64,7 +64,32 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2049%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               14 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   34.48 % 
+Markdown                 11 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Python                   3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Bash                     3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Lua                      2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+
+🔥 Editors: 
+Antigravity CLI          11 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+VS Code                  11 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+Claude Code              11 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Codex CLI                5 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Codex Vscode             1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+
+🐱‍💻 Projects: 
+palattao-frontend        15 hrs 46 mins      ██████████░░░░░░░░░░░░░░░   38.39 % 
+hypr                     5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+batdimoiprint            3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+lively-notes-frontend    3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+PALATTAO-LAW             2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -79,5 +104,5 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:34:18 UTC
+ Last Updated on 12/08/2026 19:36:21 UTC
 <!--END_SECTION:waka-->
