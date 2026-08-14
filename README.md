@@ -64,31 +64,31 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-519%20hrs%2024%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   34.48 % 
-Markdown                 11 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-Python                   3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Bash                     3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Lua                      2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+TypeScript               16 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   37.80 % 
+Markdown                 14 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   32.64 % 
+Bash                     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+JSON                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Text                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-Antigravity CLI          11 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-VS Code                  11 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-Claude Code              11 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-Codex CLI                5 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Codex Vscode             1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Claude Code              14 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   33.99 % 
+VS Code                  13 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   31.04 % 
+Codex CLI                8 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Antigravity CLI          5 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Codex Vscode             1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🐱‍💻 Projects: 
-palattao-frontend        15 hrs 46 mins      ██████████░░░░░░░░░░░░░░░   38.39 % 
-hypr                     5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-batdimoiprint            3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-lively-notes-frontend    3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-PALATTAO-LAW             2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+palattao-frontend        20 hrs 57 mins      ████████████░░░░░░░░░░░░░   47.77 % 
+PALATTAO-LAW             7 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+batdimoiprint            3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+palattao-website         3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+hypr                     2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,5 +104,5 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 19:34:00 UTC
+ Last Updated on 14/08/2026 19:28:16 UTC
 <!--END_SECTION:waka-->
