@@ -70,25 +70,25 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               19 hrs 30 mins      ████████████████░░░░░░░░░   63.55 % 
-Markdown                 3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-CSS                      1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-JSON                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Git Config               1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+TypeScript               17 hrs 49 mins      █████████████████░░░░░░░░   67.74 % 
+Markdown                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+JSON                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Git Config               1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+CSS                      1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🔥 Editors: 
-Antigravity CLI          18 hrs 36 mins      ███████████████░░░░░░░░░░   60.62 % 
-VS Code                  4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Codex CLI                3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Claude Code              2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Opencode Cli             1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Antigravity CLI          18 hrs 25 mins      ██████████████████░░░░░░░   70.06 % 
+VS Code                  2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Codex CLI                1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Claude Code              1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Opencode Cli             1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 🐱‍💻 Projects: 
-aiServerBenchmark        12 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   41.39 % 
-palattao-frontend        2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-batdimoiprint            2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-PALATTAO-LAW             2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-waybar                   2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+aiServerBenchmark        12 hrs 42 mins      ████████████░░░░░░░░░░░░░   48.28 % 
+batdimoiprint            2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+waybar                   2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Development              1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+bench_qwen27b_128k       1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,5 +104,5 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 19:06:10 UTC
+ Last Updated on 22/08/2026 18:57:56 UTC
 <!--END_SECTION:waka-->
