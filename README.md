@@ -70,25 +70,13 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               17 hrs 18 mins      █████████████████████░░░░   85.46 % 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Other                    18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity CLI          15 hrs 59 mins      ████████████████████░░░░░   78.93 % 
-Opencode Cli             1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-VS Code                  1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Claude Code              1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Antigravity CLI          18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-aiServerBenchmark        12 hrs 42 mins      ████████████████░░░░░░░░░   62.70 % 
-batdimoiprint            1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Development              1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-bench_qwen27b_128k       1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-GPRCI                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+CAPSTONE                 18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,5 +92,5 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 20:33:49 UTC
+ Last Updated on 28/08/2026 02:16:13 UTC
 <!--END_SECTION:waka-->
