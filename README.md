@@ -70,27 +70,39 @@
 
 ```text
 💬 Programming Languages: 
-Other                    18 mins             █████████████████████████   100.00 % 
+Markdown                 8 hrs 48 mins       ███████████████░░░░░░░░░░   61.05 % 
+TOML                     2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Python                   1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-Antigravity CLI          18 mins             █████████████████████████   100.00 % 
+Claude Code              7 hrs 10 mins       ████████████░░░░░░░░░░░░░   49.78 % 
+Antigravity CLI          4 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.79 % 
+VS Code                  1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Codex CLI                57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Codex Exec               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🐱‍💻 Projects: 
-CAPSTONE                 18 mins             █████████████████████████   100.00 % 
+batdimoiprint            4 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
+waybar                   3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+CAPSTONE                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+prince-it-solutions      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+MSC-QCU                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               17 repos            ████████░░░░░░░░░░░░░░░░░   31.48 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.73 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 
 
 
 
- Last Updated on 28/08/2026 02:16:13 UTC
+ Last Updated on 29/08/2026 01:49:42 UTC
 <!--END_SECTION:waka-->
