@@ -64,31 +64,31 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2045%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 48 mins       ███████████████░░░░░░░░░░   61.05 % 
-TOML                     2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Python                   1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Markdown                 9 hrs 16 mins       ███████████████░░░░░░░░░░   58.44 % 
+TOML                     2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Python                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 10 mins       ████████████░░░░░░░░░░░░░   49.78 % 
-Antigravity CLI          4 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.79 % 
-VS Code                  1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Codex CLI                57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Codex Exec               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Claude Code              8 hrs 11 mins       █████████████░░░░░░░░░░░░   51.62 % 
+Antigravity CLI          5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.37 % 
+VS Code                  1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Codex CLI                57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Codex Exec               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🐱‍💻 Projects: 
-batdimoiprint            4 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
-waybar                   3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-CAPSTONE                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-prince-it-solutions      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-MSC-QCU                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+batdimoiprint            4 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.30 % 
+waybar                   3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+CAPSTONE                 1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+prince-it-solutions      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+MSC-QCU                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,5 +104,5 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 01:49:42 UTC
+ Last Updated on 29/08/2026 21:03:51 UTC
 <!--END_SECTION:waka-->
