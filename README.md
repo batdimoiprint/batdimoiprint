@@ -70,39 +70,39 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 12 mins       ██████████████░░░░░░░░░░░   56.18 % 
-TOML                     2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Python                   1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Markdown                 7 hrs 28 mins       ██████████████░░░░░░░░░░░   57.90 % 
+Python                   1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+TOML                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 5 mins        ██████████████░░░░░░░░░░░   55.37 % 
-Antigravity CLI          3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-VS Code                  1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Codex CLI                1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Codex Exec               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Claude Code              6 hrs 40 mins       █████████████░░░░░░░░░░░░   51.60 % 
+Antigravity CLI          3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+VS Code                  1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Codex CLI                1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Codex Exec               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🐱‍💻 Projects: 
-batdimoiprint            4 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.36 % 
-waybar                   3 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-PALATTAO-LAW             1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-CAPSTONE                 1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-prince-it-solutions      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+batdimoiprint            3 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+waybar                   3 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+PALATTAO-LAW             1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+CAPSTONE                 1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+prince-it-solutions      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               18 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               19 repos            █████████░░░░░░░░░░░░░░░░   34.55 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 
 
 
 
- Last Updated on 02/09/2026 21:11:31 UTC
+ Last Updated on 03/09/2026 21:12:47 UTC
 <!--END_SECTION:waka-->
