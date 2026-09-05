@@ -70,25 +70,20 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 36 mins        █████████████░░░░░░░░░░░░   52.78 % 
-Text                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-HTML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-TOML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Markdown                 1 hr 6 mins         ██████████████████░░░░░░░   70.27 % 
+Text                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Other                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 7 mins        █████████████████░░░░░░░░   69.23 % 
-Antigravity CLI          26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Codex CLI                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-VS Code                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Claude Code              1 hr 6 mins         ██████████████████░░░░░░░   70.27 % 
+Codex CLI                17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+VS Code                  10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-PALATTAO-LAW             1 hr 40 mins        ██████████████░░░░░░░░░░░   54.61 % 
-prince-its-memories      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-CAPSTONE                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-batdimoiprint-memory     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+PALATTAO-LAW             1 hr 24 mins        ██████████████████████░░░   89.53 % 
+Unknown Project          9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+batdimoiprint            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,5 +99,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 20:55:31 UTC
+ Last Updated on 05/09/2026 20:34:38 UTC
 <!--END_SECTION:waka-->
