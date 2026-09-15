@@ -70,25 +70,25 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 15 hrs 20 mins      ████████████████░░░░░░░░░   63.37 % 
-TypeScript               4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-HTML                     3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Markdown                 11 hrs 24 mins      ███████████████████░░░░░░   76.60 % 
+HTML                     2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 24 mins      ████████████████░░░░░░░░░   63.60 % 
-Antigravity CLI          6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-VS Code                  1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Codex CLI                57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Copilot CLI              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Claude Code              7 hrs 52 mins       █████████████░░░░░░░░░░░░   52.85 % 
+Antigravity CLI          5 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.84 % 
+VS Code                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Codex CLI                49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Copilot CLI              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🐱‍💻 Projects: 
-meralco-registrar        7 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.12 % 
-maker-qa                 5 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-hypr                     3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-batdimoiprint            2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-CAPSTONE                 1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+maker-qa                 5 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   38.71 % 
+hypr                     3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+CAPSTONE                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+batdimoiprint            55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+meralco-registrar        52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,5 +104,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 21:56:49 UTC
+ Last Updated on 15/09/2026 21:37:34 UTC
 <!--END_SECTION:waka-->
