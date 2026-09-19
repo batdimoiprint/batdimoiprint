@@ -70,33 +70,27 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 36 mins       █████████████████████████   99.61 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity CLI          1 hr 56 mins        ██████████████████░░░░░░░   73.90 % 
-Claude Code              22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Codex CLI                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hypr                     2 hrs 10 mins       █████████████████████░░░░   82.87 % 
-Lab1                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-waybar                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            █████████░░░░░░░░░░░░░░░░   36.84 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+TypeScript               21 repos            █████████░░░░░░░░░░░░░░░░   36.21 % 
+HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 18/09/2026 21:06:45 UTC
+ Last Updated on 19/09/2026 20:54:24 UTC
 <!--END_SECTION:waka-->
