@@ -70,13 +70,25 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    23 hrs 28 mins      ██████████████░░░░░░░░░░░   56.24 % 
+TypeScript               7 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Markdown                 5 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Bash                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+JSON                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              21 hrs 51 mins      █████████████░░░░░░░░░░░░   52.39 % 
+Antigravity CLI          17 hrs 54 mins      ███████████░░░░░░░░░░░░░░   42.92 % 
+Codex CLI                1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+VS Code                  39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Opencode Cli             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AI-VA                    12 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+batdimoiprint            7 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+maker-qa                 6 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+aiServerBenchmark        4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+REF-PROD                 2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,5 +104,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 20:59:11 UTC
+ Last Updated on 21/09/2026 22:07:11 UTC
 <!--END_SECTION:waka-->
