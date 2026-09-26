@@ -70,24 +70,24 @@
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 7 mins       █████████████░░░░░░░░░░░░   51.54 % 
-TypeScript               5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+TypeScript               5 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.79 % 
+Other                    4 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.37 % 
+Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Prisma                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔥 Editors: 
-Antigravity CLI          10 hrs 44 mins      ██████████████░░░░░░░░░░░   54.67 % 
-Claude Code              7 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   39.29 % 
-Codex CLI                46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Claude Code              7 hrs 43 mins       ██████████████░░░░░░░░░░░   55.34 % 
+Antigravity CLI          5 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.78 % 
+Codex CLI                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🐱‍💻 Projects: 
-AI-VA                    9 hrs 3 mins        ████████████░░░░░░░░░░░░░   46.07 % 
-batdimoiprint            4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-aiServerBenchmark        1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-CAPSTONE                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Lively-Notes             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+AI-VA                    9 hrs 3 mins        ████████████████░░░░░░░░░   64.89 % 
+batdimoiprint            1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+CAPSTONE                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Lively-Notes             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+onboarding-site          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,5 +103,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 21:44:54 UTC
+ Last Updated on 26/09/2026 21:22:42 UTC
 <!--END_SECTION:waka-->
