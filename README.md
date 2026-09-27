@@ -70,38 +70,36 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.79 % 
-Other                    4 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.37 % 
-Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Prisma                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+TypeScript               4 hrs 32 mins       ███████████████░░░░░░░░░░   61.20 % 
+Other                    57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Markdown                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Prisma                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 43 mins       ██████████████░░░░░░░░░░░   55.34 % 
-Antigravity CLI          5 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.78 % 
-Codex CLI                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Claude Code              5 hrs 18 mins       ██████████████████░░░░░░░   71.47 % 
+Antigravity CLI          1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🐱‍💻 Projects: 
-AI-VA                    9 hrs 3 mins        ████████████████░░░░░░░░░   64.89 % 
-batdimoiprint            1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-CAPSTONE                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Lively-Notes             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-onboarding-site          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+AI-VA                    7 hrs 7 mins        ████████████████████████░   95.75 % 
+batdimoiprint            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+AI-Virtual-Agent         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+claude-plugins-official  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            █████████░░░░░░░░░░░░░░░░   34.48 % 
-JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+TypeScript               21 repos            █████████░░░░░░░░░░░░░░░░   35.59 % 
+JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 
 
 
 
- Last Updated on 26/09/2026 21:22:42 UTC
+ Last Updated on 27/09/2026 21:30:31 UTC
 <!--END_SECTION:waka-->
