@@ -70,25 +70,23 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 2 mins        ███████████████░░░░░░░░░░   58.08 % 
-Other                    1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Markdown                 5 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.05 % 
+Other                    4 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+Python                   2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Text                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 3 mins        ███████████████████████░░   93.01 % 
-Antigravity CLI          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Claude Code              12 hrs 7 mins       ████████████████████░░░░░   80.67 % 
+Codex Vscode             2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🐱‍💻 Projects: 
-AI-VA                    4 hrs 40 mins       █████████████░░░░░░░░░░░░   53.93 % 
-SCREEN-RECORD            1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-scripts                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-batdimoiprint            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-prince-it-solutions      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+AI-VA                    4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+PEPETON                  2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+SCREEN-RECORD            1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+waybar                   1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+batdimoiprint            1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,5 +102,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 00:14:06 UTC
+ Last Updated on 06/10/2026 22:44:03 UTC
 <!--END_SECTION:waka-->
