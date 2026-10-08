@@ -70,23 +70,21 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.63 % 
-Other                    3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.54 % 
-Text                     1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-TypeScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Markdown                 3 hrs 37 mins       █████████████████░░░░░░░░   68.77 % 
+Other                    53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 7 mins        ███████████████████░░░░░░   77.23 % 
-Codex Vscode             2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Claude Code              5 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AI-VA                    4 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   39.51 % 
-PEPETON                  2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-SCREEN-RECORD            1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-module-3-build-student   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-scripts                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+AI-VA                    3 hrs 4 mins        ███████████████░░░░░░░░░░   58.38 % 
+SCREEN-RECORD            38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+scripts                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+recordings               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+backend                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,5 +100,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 23:14:40 UTC
+ Last Updated on 08/10/2026 23:30:06 UTC
 <!--END_SECTION:waka-->
