@@ -64,19 +64,30 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2056%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 9 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
+Other                    7 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+TypeScript               4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+YAML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+SQL                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              19 hrs 55 mins      ██████████████████░░░░░░░   72.64 % 
+VS Code                  3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Codex Vscode             3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Codex Exec               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AI-VA                    7 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+PAROON                   3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+localstack               2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+batdimoiprint            2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+CAPSTONE                 1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,5 +103,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 23:00:12 UTC
+ Last Updated on 14/10/2026 21:52:00 UTC
 <!--END_SECTION:waka-->
