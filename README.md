@@ -70,38 +70,38 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.12 % 
-Other                    4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-TypeScript               3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-YAML                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-SQL                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Markdown                 6 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.91 % 
+Other                    3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+TypeScript               3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+YAML                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+SQL                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 6 mins       ███████████████░░░░░░░░░░   60.93 % 
-Codex Vscode             3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-VS Code                  3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Codex Exec               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Claude Code              10 hrs 46 mins      ████████████████░░░░░░░░░   62.29 % 
+VS Code                  3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Codex Vscode             2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Codex Exec               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🐱‍💻 Projects: 
-AI-VA                    4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-PAROON                   3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-localstack               2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-batdimoiprint            1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-mobile                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+AI-VA                    4 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+PAROON                   3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+localstack               2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+batdimoiprint            1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+mobile                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               26 repos            ██████████░░░░░░░░░░░░░░░   40.62 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 16/10/2026 21:30:37 UTC
+ Last Updated on 17/10/2026 20:48:54 UTC
 <!--END_SECTION:waka-->
