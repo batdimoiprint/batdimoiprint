@@ -70,24 +70,21 @@
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   30.76 % 
-TypeScript               1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-Markdown                 1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-SQL                      49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-CSS                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Other                    1 hr 53 mins        ██████████████████████░░░   89.24 % 
+TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 2 mins        ████████████████░░░░░░░░░   65.53 % 
-Codex Vscode             1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Codex Exec               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Codex Vscode             1 hr 44 mins        ████████████████████░░░░░   81.89 % 
+VS Code                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Codex Exec               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 
 🐱‍💻 Projects: 
-AI-VA                    3 hrs 28 mins       ██████████████░░░░░░░░░░░   56.35 % 
-AWS-BC                   58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Development              31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-batdimoiprint            28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-overseerly-web           23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Development              31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+batdimoiprint            28 mins             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+AWS-BC                   24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+overseerly-web           23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+TD                       17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,5 +100,5 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:32:59 UTC
+ Last Updated on 20/10/2026 21:47:00 UTC
 <!--END_SECTION:waka-->
