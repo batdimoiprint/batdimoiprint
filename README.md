@@ -70,21 +70,13 @@
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 53 mins        ██████████████████████░░░   89.24 % 
-TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             1 hr 44 mins        ████████████████████░░░░░   81.89 % 
-VS Code                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Codex Exec               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Codex Exec               0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Development              31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-batdimoiprint            28 mins             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-AWS-BC                   24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-overseerly-web           23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-TD                       17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -100,5 +92,5 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 21:47:00 UTC
+ Last Updated on 21/10/2026 21:52:54 UTC
 <!--END_SECTION:waka-->
