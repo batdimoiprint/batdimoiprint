@@ -244,9 +244,9 @@
         Kenny Reyes
     </text>
 
-    <!-- Subtitle: Full Stack Developer - Aspiring DevOps Engineer -->
+    <!-- Subtitle: Software Engineer -->
     <text x="800" y="200" class="header-subtitle" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">
-        Full Stack Developer - Aspiring DevOps Engineer
+        Software Engineer
     </text>
 
     <text x="800" y="250" class="header-link" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">
